@@ -1,0 +1,61 @@
+
+.btn-space{
+	border: 4px solid #505e7a;
+}
+.btn-group-vertical{
+	background-color: #505e7a;
+}
+.card{
+	padding: 10px;
+}
+
+.btn{
+	background-color: #21304a;
+	color: #e0d9df;
+}
+.btn:hover{
+	background-color: #8e90a8;
+	color: #ffffff;
+} 
+
+body{
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+}
+
+h3{
+	color: #e0d9df;
+	text-align: left;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	font-size: 20px;
+}
+.card{
+	color: #030612;
+}
+
+.card h3{
+	color: #030612;
+}
+.prod-name{
+	font-size: 20px;
+}
+.btn-block{
+	background-color: #ffffff;
+	color: #030612;
+}
+.btn-block:hover{
+	color: #e0d9df;
+	background-color: #030612;
+}
+.btn-block.active{
+	color: #e0d9df;
+	background-color: #030612;
+}
+.custom-file-control:after {
+    content: attr(data-content) !important;
+}
+.file-custom{
+	color: #e0d9df;
+	background-color: #030612;
+}
